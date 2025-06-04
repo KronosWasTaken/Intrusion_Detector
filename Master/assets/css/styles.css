@@ -1,0 +1,56 @@
+td.details-control {
+  text-align: center;
+  color: forestgreen;
+  cursor: pointer;
+}
+
+tr.shown td.details-control {
+  text-align: center;
+  color: red;
+}
+
+a.not-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
+/* Export data buttons styling */
+.dt-buttons .dt-button {
+    color: #2c3e50 !important;
+    background-color: #ecf0f1 !important;
+    border: 1px solid #bdc3c7 !important;
+    padding: 8px 15px !important;
+    margin: 0 5px !important;
+    border-radius: 4px !important;
+    transition: all 0.3s ease !important;
+}
+
+.dt-buttons .dt-button:hover {
+    background-color: #34db87 !important;
+    color: white !important;
+    border-color: #34db87!important;
+}
+
+/* Icon colors for specific buttons */
+.dt-button-collection .dt-button[data-dt-idx="0"] i { /* CSV */
+    color: #27ae60 !important;
+}
+
+.dt-button-collection .dt-button[data-dt-idx="1"] i { /* Excel */
+    color: #2ecc71 !important;
+}
+
+.dt-button-collection .dt-button[data-dt-idx="2"] i { /* PDF */
+    color: #e74c3c !important;
+}
+
+.dt-buttons .dt-button[data-dt-idx="3"] i { /* Copy */
+    color: #f39c12 !important;
+}
+
+.dt-buttons .dt-button[data-dt-idx="4"] i { /* Print */
+    color: #9b59b6 !important;
+}
+

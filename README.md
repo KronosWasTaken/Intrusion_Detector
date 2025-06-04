@@ -107,14 +107,14 @@ Alternatively, you can use the provided `run.bat` script on Windows to start bot
 ## Screenshots
 
 ### Main Interface
-![Main Interface View 1](screenshots/main1.png)
-![Main Interface View 2](screenshots/main2.png)
+![Main Interface View 1](Screenshots/main1.png)
+![Main Interface View 2](Screenshots/main2.png)
 
 ### Expanded GUI
-![Expanded GUI View](screenshots/expanded_gui.png)
+![Expanded GUI View](Screenshots/expanded_gui.png)
 
 ### Search Functionality
-![Search Interface](screenshots/search.png)
+![Search Interface](Screenshots/search.png)
 
 
 
